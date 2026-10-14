@@ -1,0 +1,4 @@
+*.tar.gz
+scratch_*.py
+*.txt
+.env

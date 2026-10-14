@@ -1,0 +1,6 @@
+[submodule "ifs24023-pabwe2026-sk-p6-svelte"]
+	path = ifs24023-pabwe2026-sk-p6-svelte
+	url = https://github.com/yogitm/ifs24023-pabwe2026-sk-p6-svelte.git
+[submodule "ifs24023-pabwe2026-sk-p6-sveltekit"]
+	path = ifs24023-pabwe2026-sk-p6-sveltekit
+	url = https://github.com/yogitm/ifs24023-pabwe2026-sk-p6-sveltekit.git
